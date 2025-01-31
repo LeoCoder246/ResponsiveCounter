@@ -27,8 +27,8 @@ A simple counter app that allows users to increment, decrement, save, and clear 
    On mobile devices, saved values are displayed below the counter.
 
 ## Screenshots
-
-Add screenshots showing desktop and mobile views to make the README visually appealing.
+![image alt](https://github.com/LeoCoder246/ResponsiveCounter/blob/e493674d5eacbcdf93390070ce896e7de10d9d31/counter1.PNG)
+![image alt](https://github.com/LeoCoder246/ResponsiveCounter/blob/e493674d5eacbcdf93390070ce896e7de10d9d31/counter2.PNG)
 
 ## Future Improvements
 
